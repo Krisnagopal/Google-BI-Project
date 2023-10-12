@@ -27,11 +27,11 @@ Role played by the weather:  <br/>
 <br />
 <br />
 Holiday Travel: <br/>
-<img src="https://i.imgur.com/Z3FMhs8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z3FMhs8.png" height="80%" width="80%" alt="Google-BI-Project"/>
 <br />
 <br />
 Hourly Traffic Pattern:  <br/>
-<img src="https://i.imgur.com/y4LdW9y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/y4LdW9y.png" height="80%" width="80%" alt="Google-BI-Project"/>
 <br />
 <br />
 
